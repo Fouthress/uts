@@ -1,0 +1,34 @@
+.dropdown:hover > .dropdown-menu {
+    display: block;
+    margin-top: 0.125em;
+  }
+
+.text-blackboard{
+  color: #565656;
+}
+
+.text-grain{
+  color: #D7CEC7;
+}
+.text-oxblood{
+  color: #76323F;
+}
+
+.text-tan{
+  color: #C09F80;
+}
+
+.bg-blackboard{
+  background-color: #565656;
+}
+
+.bg-grain{
+  background-color: #D7CEC7;
+}
+.bg-oxblood{
+  background-color: #76323F;
+}
+
+.bg-tan{
+  background-color: #C09F80;
+}
